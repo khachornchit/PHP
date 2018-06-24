@@ -3,14 +3,14 @@
  * Created by PhpStorm.
  * User: kajornjitsongsaen
  * Date: 22/6/18
- * Time: 01:34
+ * Time: 00:52
  */
 
-namespace PlutoApiBundle;
+namespace PlutoDomainBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class PlutoApiBundle extends Bundle
+class PlutoDomainBundle extends Bundle
 {
 
 }

@@ -1,0 +1,6 @@
+# src/Pluto/ApiBundle/Resources/config/routing.yml
+pluto_api.user_all:
+    pattern:  /users.{_format}
+    defaults: { _controller: PlutoApiBundle:User:all, _format: ~ }
+    requirements:
+        _method: GET

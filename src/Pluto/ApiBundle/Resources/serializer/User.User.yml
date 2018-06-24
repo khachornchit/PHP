@@ -1,0 +1,13 @@
+# src/Pluto/ApiBundle/Resources/config/serializer/User.User.yml
+Pluto\Domain\User\User:
+    exclusion_policy: ALL
+    properties:
+        id:
+            expose: true
+            inline: true
+        firstName:
+            expose: true
+            serialized_name: first_name
+        lastName:
+            expose: true
+            serialized_name: last_name
