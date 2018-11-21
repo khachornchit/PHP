@@ -1,13 +1,12 @@
 {
-  "name": "pluto-symfony3",
+  "name": "pluto-symfony",
   "description": "",
   "license": "MIT",
   "type": "project",
   "autoload": {
     "psr-4": {
       "PlutoApiBundle\\": "src/Pluto/ApiBundle",
-      "PlutoDomain\\": "src/Pluto/Domain",
-      "PlutoDomainBundle\\": "src/Pluto/DomainBundle"
+      "PlutoDomain\\": "src/Pluto/Domain"
     },
     "classmap": [
       "app/AppKernel.php",

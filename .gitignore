@@ -1,0 +1,7 @@
+.idea
+.docker
+docker-compose.yml
+node_modules
+vendor
+gulpfile.js
+package.json.lock
