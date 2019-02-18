@@ -11,8 +11,8 @@
 `We help international clients to develop, upgrade, and maintain web applications, new feature development, integration, QA, and automation test.`
 
 #### Setup
-* git clone https://github.com/plutosolutions/PHP-Symfony-4-Web-Application
-* cd PHP-Symfony-4-Web-Application
+* git clone git@github.com:plutosolutions/PHP-Symfony-4-Development.git
+* cd PHP-Symfony-4-Development
 * composer install
 
 #### Database configuration at file .env
